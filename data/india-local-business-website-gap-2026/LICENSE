@@ -1,0 +1,17 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Mantis (mantisai.in)
+
+The aggregate tables (india_city_website_gap_2026.csv, india_city_category_website_gap_2026.csv),
+the notebook (eda_website_gap.ipynb) and the script (build_aggregates.py) in this folder are licensed
+under the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt this material for any purpose, including commercially, as long as you
+give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Suggested attribution:
+  Mantis (2026). India local business website gap 2026 (aggregated dataset). https://doi.org/10.5281/zenodo.24233108
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The underlying listing data is Google Maps content and is NOT included or redistributed here.
