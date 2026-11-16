@@ -89,6 +89,6 @@ Google Maps content and is **not** included or redistributed.
 }
 ```
 
-Questions or corrections: open an issue on [tarunmottlia/mantis](https://github.com/tarunmottlia/mantis/issues), or see https://mantisai.in.
+Questions or corrections: open an issue on [tarunmottlia/mantis](https://github.com/tarunmottlia/mantis/issues), or see [mantisai.in](https://mantisai.in?utm_source=github&utm_medium=guest&utm_campaign=gp).
 
 I'm Tarun, founder of Mantis.
