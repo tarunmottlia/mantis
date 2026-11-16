@@ -12,4 +12,9 @@ Mantis Ai is AI lead generation for B2B companies, startups, MSMEs and agencies,
 
 This repository holds public notes, docs and examples about Mantis. The product itself is not open source.
 
+## Docs
+
+- [Google Maps leads into your CRM: a setup checklist for 5 paths](docs/index.md)
+- [Write an ICP a lead search can actually run: a one-page worksheet](docs/icp-worksheet.md)
+
 I'm Tarun, founder of Mantis.
